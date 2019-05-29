@@ -1,0 +1,11 @@
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography.Tests\bin\Debug\WebMoney.Cryptography.Tests.dll
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography.Tests\bin\Debug\WebMoney.Cryptography.Tests.pdb
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography.Tests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography.Tests\bin\Debug\WebMoney.Cryptography.dll
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography.Tests\bin\Debug\WebMoney.Cryptography.pdb
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography.Tests\bin\Debug\ru\Microsoft.VisualStudio.QualityTools.UnitTestFramework.resources.dll
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography.Tests\obj\Debug\WebMoney.Cryptography.Tests.csprojAssemblyReference.cache
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography.Tests\obj\Debug\WebMoney.Cryptography.Tests.csproj.CoreCompileInputs.cache
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography.Tests\obj\Debug\WebMoney.Cryptography.Tests.csproj.CopyComplete
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography.Tests\obj\Debug\WebMoney.Cryptography.Tests.dll
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography.Tests\obj\Debug\WebMoney.Cryptography.Tests.pdb

@@ -1,0 +1,6 @@
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography\bin\Debug\WebMoney.Cryptography.dll
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography\bin\Debug\WebMoney.Cryptography.pdb
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography\obj\Debug\WebMoney.Cryptography.csprojAssemblyReference.cache
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography\obj\Debug\WebMoney.Cryptography.csproj.CoreCompileInputs.cache
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography\obj\Debug\WebMoney.Cryptography.dll
+C:\Repositories\WebmoneyInterfaces\WebMoney\WebMoney.Cryptography\obj\Debug\WebMoney.Cryptography.pdb
